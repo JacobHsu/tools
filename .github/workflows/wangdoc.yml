@@ -24,8 +24,8 @@ jobs:
       - name: Deploy to website
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          DEPLOY_BOT_TOKEN: ${{ secrets.DEPLOY_BOT_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
+          token: ${{ secrets.DEPLOY_BOT_TOKEN }}
+          branch: gh-pages # The branch the action should deploy to.
           folder: dist # The folder the action should deploy.
           target-folder: dist/typescript
           clean: true # Automatically remove deleted files from the deploy branch
