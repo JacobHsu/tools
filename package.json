@@ -1,5 +1,6 @@
 {
   "name": "tools-tutorial",
+  "homepage": "https://jacobhsu.github.io/tools",
   "version": "1.0.0",
   "description": "Web Tools",
   "main": "index.js",
