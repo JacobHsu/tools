@@ -4,7 +4,7 @@
 
 ## 工具
 
-67tool [即时工具](https://www.67tool.com/rank/hot)-致力打造即用即走型在线工具箱
+[67tool 即时工具](https://www.67tool.com/)-致力打造即用即走型在线工具箱
 
 
 
