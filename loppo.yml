@@ -1,6 +1,6 @@
 dir: docs
 output: dist
-site: TypeScript 教程
+site: Online Tools
 theme: wangdoc
 customization: false
 themeDir: loppo-theme
