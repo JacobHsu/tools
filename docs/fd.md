@@ -26,3 +26,15 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 
 [Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)
+
+## Icons
+
+[Noun Project](https://thenounproject.com/) : Free Icons & Stock Photos for Everything
+
+## Api
+
+[Chuck Norris Jokes Api](https://api.chucknorris.io/)
+
+## UI
+
+[Figma](https://www.figma.com/): The Collaborative Interface Design Tool
