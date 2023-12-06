@@ -6,3 +6,23 @@
 
 [GitHub Web IDE](https://chromewebstore.google.com/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe)
 
+
+## Visual Studio Code
+
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+[MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
+
+[SVG Previewer](https://marketplace.visualstudio.com/items?itemName=vitaliymaz.vscode-svg-previewer)
+
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+[Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)  
+
+
+
+
+
+
