@@ -42,3 +42,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 ## Analysis
 
 [Similarweb](https://www.similarweb.com/zh-tw/) 網站流量- 檢視、分析任何網站
+
+## PM
+
+[Jira](https://www.atlassian.com/) For Project Management
