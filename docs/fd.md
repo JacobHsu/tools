@@ -46,3 +46,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 ## PM
 
 [Jira](https://www.atlassian.com/) For Project Management
+
+## Monitoring
+
+[Sentry Error Monitoring](https://sentry.io/) — We support 100+ languages & frameworks, from frontend to backend, mobile, gaming, & more.
