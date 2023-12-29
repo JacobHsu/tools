@@ -3,6 +3,7 @@
 [ChatGot](https://www.chatgot.io/) Chat Freely, Got Every AI Assistants  
 [YesChat.ai](https://www.yeschat.ai/zh-CN) 該網站提供最新 AI 模型（GPT4V、Dalle3、Claude 2）的免費體驗，不過每天有次數限制。  
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
+[CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
 ## Image
 
