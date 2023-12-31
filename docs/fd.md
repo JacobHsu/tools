@@ -55,3 +55,9 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 [Vercel](https://vercel.com): Build and deploy the best Web experiences  
 [kinsta](https://kinsta.com/)  Ultimate performance at the core, with endless possibilities to amplify
+
+## visualstudio
+
+
+[彩虹縮排](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)   
+[彩色結尾](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
