@@ -46,6 +46,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 ## PM
 
 [Jira](https://www.atlassian.com/) For Project Management
+[ClickUp](https://clickup.com/) | One app to replace them all  
 
 ## Monitoring
 
