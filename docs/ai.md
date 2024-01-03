@@ -5,6 +5,12 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
+
+## Ideas
+
+[MyMap AI](https://www.mymap.ai/) Map out Ideas with AI Copilot   
+[MyLens](https://mylens.ai/)  One Timeline, Many Histories.
+
 ## Image
 
 [Bing 圖像建立器](https://www.bing.com/images/create) 微軟官方的 AI 文生圖服務
