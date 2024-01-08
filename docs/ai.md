@@ -33,3 +33,7 @@
 ## Websites
 
 [TeleportHQ](https://teleporthq.io/professional-website-builder) Build professional websites in hours, not days.
+
+## Google
+
+[mediapipe](https://developers.google.com/mediapipe) On-device machine learning for everyone
