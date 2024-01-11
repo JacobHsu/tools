@@ -72,3 +72,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 ## chromewebstore
 
 [Web Vitals](https://chromewebstore.google.com/detail/ahfhijdlegdabablpippeagghigmibma)
+
+## music
+
+[musicforprogramming](https://musicforprogramming.net/)
