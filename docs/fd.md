@@ -53,6 +53,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 [Jira](https://www.atlassian.com/) For Project Management   
 [ClickUp](https://clickup.com/) | One app to replace them all  
+[workflowy](https://workflowy.com/) Organize Your Brain  
 
 ## Monitoring
 
