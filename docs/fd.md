@@ -58,6 +58,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 [Jira](https://www.atlassian.com/) For Project Management   
 [ClickUp](https://clickup.com/) | One app to replace them all  
+[dynalist](https://dynalist.io/) Where brilliant ideas are captured, fleshed out, and realized.  
 [workflowy](https://workflowy.com/) Organize Your Brain  
 
 ## Monitoring
