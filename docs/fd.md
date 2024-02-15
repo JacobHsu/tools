@@ -83,3 +83,7 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 ## music
 
 [musicforprogramming](https://musicforprogramming.net/)
+
+## mac
+
+[BetterDisplay](https://github.com/waydabber/BetterDisplay)
