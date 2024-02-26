@@ -74,7 +74,8 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 [彩虹縮排](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)   
 [彩色結尾](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
-[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor
+[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor  
+[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)  
 
 ## chromewebstore
 
