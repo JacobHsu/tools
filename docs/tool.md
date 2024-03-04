@@ -9,6 +9,7 @@
 
 ## 筆記工具
 
+[evernote](https://www.evernote.com/)  
 [Dynalist](https://dynalist.io/): Where brilliant ideas are captured, fleshed out, and realized. 
 
 ## 旅程
