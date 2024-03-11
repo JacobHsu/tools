@@ -12,6 +12,10 @@
 [evernote](https://www.evernote.com/)  
 [Dynalist](https://dynalist.io/): Where brilliant ideas are captured, fleshed out, and realized. 
 
+## 設計工具
+
+[Canva](https://www.canva.com/) 是免費的線上平面設計工具
+
 ## 旅程
 
 [Google Flights](https://www.google.com/travel/flights?hl=zh-TW)  找便宜機票  
