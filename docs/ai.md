@@ -15,6 +15,7 @@
 ## Image
 
 [IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
+[CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2)  figure out what a good prompt  
 [Bing 圖像建立器](https://www.bing.com/images/create) 微軟官方的 AI 文生圖服務  
 [Google ImageFX](https://aitestkitchen.withgoogle.com/tools/image-fx)  Google 推出免費AI 圖片生成器  
 [Leonardo AI](https://app.leonardo.ai/): AI Art Generator - Create Art, Images & More    
