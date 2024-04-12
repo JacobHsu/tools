@@ -10,7 +10,8 @@
 ## Ideas
 
 [MyMap AI](https://www.mymap.ai/) Map out Ideas with AI Copilot   
-[MyLens](https://mylens.ai/)  One Timeline, Many Histories.
+[MyLens](https://mylens.ai/)  One Timeline, Many Histories.  
+[MindShow](https://www.mindshow.fun/) - AI PPT, Make Slides Easy  
 
 ## Image
 
