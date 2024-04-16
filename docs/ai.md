@@ -49,6 +49,10 @@
 
 [mediapipe](https://developers.google.com/mediapipe) On-device machine learning for everyone
 
+## GitHub Copilot
+
+`ctrl+i`  in-Line Chat command
+
 
 ### [MindShow](https://www.mindshow.fun/) 
 > AI PPT, Make Slides Easy
