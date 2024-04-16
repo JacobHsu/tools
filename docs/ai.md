@@ -45,6 +45,10 @@
 
 [TeleportHQ](https://teleporthq.io/professional-website-builder) Build professional websites in hours, not days.
 
+## Microsoft
+
+[Power BI](https://www.microsoft.com/zh-tw/power-platform/products/power-bi) https://www.microsoft.com/zh-tw/power-platform/products/power-bi
+
 ## Google
 
 [mediapipe](https://developers.google.com/mediapipe) On-device machine learning for everyone
