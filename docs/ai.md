@@ -48,3 +48,20 @@
 ## Google
 
 [mediapipe](https://developers.google.com/mediapipe) On-device machine learning for everyone
+
+
+### [MindShow](https://www.mindshow.fun/) 
+> AI PPT, Make Slides Easy
+
+輸入指令，「`請把這份資料整理一份20頁PPT的大綱`」  
+
+讓ChatGPT給你配圖
+`發照片時 ，請使用Markdown，不要涉及斜線，不要使用代碼塊，使用unsplash APl https://source.unsplash.com/1080x720/？ <关键词> 如果理解了，請回復“OK”`
+
+它會回復你，我聽懂了。 你再給它指令：`請按剛剛大綱裡的資訊配圖`。 它就會開始給你每一頁的大綱配圖。   
+
+再在ChatGPT里輸入指令：「`請以Markdown語言編寫成代碼塊輸出`」。  
+
+登錄網站之後，選「我的文檔」，選「導入」，在這裡把剛剛複製的Markdown語言粘貼進來，再選「導出創建」。 到這裡，你就能看到最終PPT的樣子了
+
+
