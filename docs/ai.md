@@ -9,6 +9,9 @@
 
 ## Ideas
 
+[ChatPDF](https://www.chatpdf.com/) Chat with any PDF  
+[ChatDOC](https://chatdoc.com/) Chat with documents.  
+[copy.ai](https://www.copy.ai/) [ai-prompt-library](https://www.copy.ai/ai-prompt-library) sales  
 [MyMap AI](https://www.mymap.ai/) Map out Ideas with AI Copilot   
 [MyLens](https://mylens.ai/)  One Timeline, Many Histories.  
 [MindShow](https://www.mindshow.fun/) - AI PPT, Make Slides Easy  
