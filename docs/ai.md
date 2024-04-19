@@ -15,6 +15,8 @@
 [MyMap AI](https://www.mymap.ai/) Map out Ideas with AI Copilot   
 [MyLens](https://mylens.ai/)  One Timeline, Many Histories.  
 [MindShow](https://www.mindshow.fun/) - AI PPT, Make Slides Easy  
+[Beautiful AI](https://www.beautiful.ai) PPT 排版
+
 
 ## Image
 
@@ -26,7 +28,8 @@
 [Stable Diffusion](https://stablediffusionweb.com/WebUI) an AI model that can generate images from text prompts  
 [logo](https://logo.com/) - LOGO AI 產生器  
 [PhotoEditor](https://photoeditor.ai/)  以 AI 技術快速移除相片中的物品、人物或文字  
-[Pixian.AI](https://pixian.ai/) 線上去背
+[Pixian.AI](https://pixian.ai/) 線上去背  
+[kaiber.ai](https://kaiber.ai/) 動圖
 
 [AutoDraw](https://www.autodraw.com/) by Google Creative Lab  
 
