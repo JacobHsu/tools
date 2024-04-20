@@ -27,6 +27,11 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 [Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)  
 
+## CodeSchool
+
+[Codecademy](https://www.codecademy.com/?locale_code=zh)  
+[free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
+
 ## Low-code
 
 [TeleportHQ](https://teleporthq.io/) A powerful visual builder to create and publish your headless static websites instantly.  
