@@ -15,7 +15,11 @@
 [MyMap AI](https://www.mymap.ai/) Map out Ideas with AI Copilot   
 [MyLens](https://mylens.ai/)  One Timeline, Many Histories.  
 [MindShow](https://www.mindshow.fun/) - AI PPT, Make Slides Easy  
-[Beautiful AI](https://www.beautiful.ai) PPT 排版
+
+### PPT
+
+[Gamma](https://gamma.app) Beautiful presentations, documents, and websites.  
+[Beautiful AI](https://www.beautiful.ai) PPT 排版 
 
 
 ## Image
