@@ -33,7 +33,8 @@
 [logo](https://logo.com/) - LOGO AI 產生器  
 [PhotoEditor](https://photoeditor.ai/)  以 AI 技術快速移除相片中的物品、人物或文字  
 [Pixian.AI](https://pixian.ai/) 線上去背  
-[kaiber.ai](https://kaiber.ai/) 動圖
+[kaiber.ai](https://kaiber.ai/) 動圖  
+[腾讯ARC imgRestore](https://arc.tencent.com/zh/ai-demos/imgRestore)  AI图片处理工具  
 
 [AutoDraw](https://www.autodraw.com/) by Google Creative Lab  
 
