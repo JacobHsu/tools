@@ -1,5 +1,9 @@
 # App
 
+## 瀏覽器
+
+[DuckDuckGo](https://duckduckgo.com/) — Privacy, simplified.
+
 ## Games
 
 [50 Tiny Room Escape](https://apps.apple.com/tw/app/50-tiny-room-escape/id6449036685)
