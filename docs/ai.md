@@ -37,6 +37,7 @@
 [腾讯ARC imgRestore](https://arc.tencent.com/zh/ai-demos/imgRestore)  AI图片处理工具  
 
 [AutoDraw](https://www.autodraw.com/) by Google Creative Lab  
+[GeoSpy AI](https://geospy.ai/) 使用AI來識別上傳照片的拍攝地點  
 
 ## Music
 
