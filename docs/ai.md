@@ -41,8 +41,11 @@
 
 ## Music
 
-[imagetomusic](https://imagetomusic.top/) AI Image to Music Generator
+[imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
 
+ ## Language
+ 
+ [Lingolette](https://lingolette.com/) — language teaching machine
 
 ## Comic
 
