@@ -39,6 +39,8 @@
 [AutoDraw](https://www.autodraw.com/) by Google Creative Lab  
 [GeoSpy AI](https://geospy.ai/) 使用AI來識別上傳照片的拍攝地點  
 
+AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)  
+
 ## Music
 
 [imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
