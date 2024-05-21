@@ -7,6 +7,9 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
+## Tools
+
+[Future Web Tools](https://futureweb.pro/tools/ai)
 
 ## Ideas
 
@@ -24,7 +27,8 @@
 
 ## Video
 
-[FlexClip](https://www.flexclip.com/): Online Video Editor - Make Videos for Free
+[FlexClip](https://www.flexclip.com/): Online Video Editor - Make Videos for Free  
+[PixVerse](https://pixverse.ai/) - Create breath-taking videos with PixVerse AI  
 
 ## Image
 
@@ -55,6 +59,7 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 ## Comic
 
+[Skyreels AI](https://skyreels.ai/dashboard) Instant Comic Creations with AI Tools  
 [漫画工厂](https://huggingface.co/spaces/jbilcke-hf/comic-factory) 輸入劇情自動產生多種風格漫畫  
 [shortbread.ai](https://shortbread.ai/) Create comics with AI in minutes
 
