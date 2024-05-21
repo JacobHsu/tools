@@ -22,6 +22,9 @@
 [Gamma](https://gamma.app) Beautiful presentations, documents, and websites.  
 [Beautiful AI](https://www.beautiful.ai) PPT 排版 
 
+## Video
+
+[FlexClip](https://www.flexclip.com/): Online Video Editor - Make Videos for Free
 
 ## Image
 
