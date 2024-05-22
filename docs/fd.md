@@ -25,7 +25,11 @@
 devtool.tech [开发者武器库](https://devtool.tech/)  
 
 
-[Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)  
+[Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)
+
+## Tools
+
+[CORS Error](https://seanacnet.com/website-related/cors-error-chrome-easy-cors/) chromewebstore [EASY CORS](https://chromewebstore.google.com/detail/easy-cors/gcdaaelgdlicnnichhholnoagafangej?hl=zh-TW)  
 
 ## CodeSchool
 
