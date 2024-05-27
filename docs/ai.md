@@ -53,9 +53,9 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 [imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
 
- ## Language
+## Language
  
- [Lingolette](https://lingolette.com/) — language teaching machine
+[Lingolette](https://lingolette.com/) — language teaching machine
 
 ## Comic
 
@@ -83,6 +83,9 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 `ctrl+i`  in-Line Chat command
 
+## Models
+
+[ollama](https://ollama.com/) Get up and running with large language models.
 
 ### [MindShow](https://www.mindshow.fun/) 
 > AI PPT, Make Slides Easy
