@@ -39,6 +39,7 @@
 [Leonardo AI](https://app.leonardo.ai/): AI Art Generator - Create Art, Images & More    
 [Stable Diffusion](https://stablediffusionweb.com/WebUI) an AI model that can generate images from text prompts  
 [logo](https://logo.com/) - LOGO AI 產生器  
+[Ilus AI](https://ilus.ai/generate) 手繪插圖。
 [PhotoEditor](https://photoeditor.ai/)  以 AI 技術快速移除相片中的物品、人物或文字  
 [Pixian.AI](https://pixian.ai/) 線上去背  
 [kaiber.ai](https://kaiber.ai/) 動圖  
