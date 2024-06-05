@@ -9,7 +9,9 @@
 
 ## Tools
 
-[Future Web Tools](https://futureweb.pro/tools/ai)
+[Future Web Tools](https://futureweb.pro/tools/ai)  
+
+[Coze](https://www.coze.com/home) Create your own AI bot  
 
 ## Ideas
 
