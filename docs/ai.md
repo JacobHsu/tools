@@ -13,6 +13,10 @@
 
 [Coze](https://www.coze.com/home) Create your own AI bot  
 
+## Search
+
+[秘塔AI搜索](https://metaso.cn/)  
+
 ## Ideas
 
 [ChatPDF](https://www.chatpdf.com/) Chat with any PDF  
