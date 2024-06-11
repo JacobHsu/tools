@@ -70,7 +70,11 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 [Skyreels AI](https://skyreels.ai/dashboard) Instant Comic Creations with AI Tools  
 [漫画工厂](https://huggingface.co/spaces/jbilcke-hf/comic-factory) 輸入劇情自動產生多種風格漫畫  
-[shortbread.ai](https://shortbread.ai/) Create comics with AI in minutes
+[shortbread.ai](https://shortbread.ai/) Create comics with AI in minutes  
+
+## Anime
+
+[trace.moe](https://trace.moe/) 動漫場景搜尋引擎  
 
 ## Lesson
 
