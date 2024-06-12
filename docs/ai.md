@@ -26,6 +26,11 @@
 [MyLens](https://mylens.ai/)  One Timeline, Many Histories.  
 [MindShow](https://www.mindshow.fun/) - AI PPT, Make Slides Easy  
 
+## Dev
+
+[ollama](https://ollama.com/library/llama3:8b)  
+[Open WebUI](https://docs.openwebui.com/)  
+
 ### PPT
 
 [Gamma](https://gamma.app) Beautiful presentations, documents, and websites.  
