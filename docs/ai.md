@@ -16,7 +16,8 @@
 ## Search
 
 [秘塔AI搜索](https://metaso.cn/)  
-[Kimi.ai](https://kimi.moonshot.cn/) - 帮你看更大的世界  
+[Kimi.ai](https://kimi.moonshot.cn/) - 帮你看更大的世界   
+`提示词：这篇文章的结论是什么？使用原文作为佐证，并且说明原文所在的具体位置。`
 
 ## Ideas
 
