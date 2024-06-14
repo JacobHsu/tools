@@ -16,6 +16,7 @@
 ## Search
 
 [秘塔AI搜索](https://metaso.cn/)  
+[Kimi.ai](https://kimi.moonshot.cn/) - 帮你看更大的世界  
 
 ## Ideas
 
