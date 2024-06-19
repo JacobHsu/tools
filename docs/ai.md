@@ -35,6 +35,7 @@
 
 ### PPT
 
+[canva](https://www.canva.co)：任何人都能輕鬆上手的Visual Suite  
 [Gamma](https://gamma.app) Beautiful presentations, documents, and websites.  
 [Beautiful AI](https://www.beautiful.ai) PPT 排版 
 
