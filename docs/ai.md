@@ -7,6 +7,12 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
+## Note
+
+[Google NotebookLM](https://notebooklm.google/)  Note Taking & Research Assistant 
+> [大考中心](https://www.ceec.edu.tw/xmfile?xsmsid=0J052424829869345634)
+
+
 ## Tools
 
 [Future Web Tools](https://futureweb.pro/tools/ai)  
