@@ -45,6 +45,7 @@
 
 ## Image
 
+[Playground AI](https://playground.com/create) - free-to-use online AI image creator    
 [IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
 [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2)  figure out what a good prompt  
 [Bing 圖像建立器](https://www.bing.com/images/create) 微軟官方的 AI 文生圖服務  
