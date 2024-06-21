@@ -25,7 +25,9 @@
 devtool.tech [开发者武器库](https://devtool.tech/)  
 
 
-[Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)
+[Encoder / Decoder](https://appdevtools.com/base58-encoder-decoder)  
+
+[Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html#1f600)
 
 ## Tools
 
