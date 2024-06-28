@@ -21,6 +21,12 @@
 [Google Flights](https://www.google.com/travel/flights?hl=zh-TW)  找便宜機票  
 [Skyscanner](https://www.skyscanner.com.tw/)  比較便宜機票，預訂飛往世界各地的機票
 
+## 電子書
+
+[epubBooks](https://www.epubbooks.com/) a community of free eBook lovers!  
+[Redefine ePub reader](https://www.flowoss.com/) pacexy/flow Browser-based ePub Reader.  
+
+
 
 
 
