@@ -11,6 +11,11 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
+
+## Prompt
+
+[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区
+
 ## Note
 
 [Google NotebookLM](https://notebooklm.google/)  Note Taking & Research Assistant 
