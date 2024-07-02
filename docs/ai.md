@@ -14,7 +14,9 @@
 
 ## Prompt
 
-[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区
+[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区。
+[IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
+[Image To Prompt](https://describepicture.org/image-to-prompt/)  Unlock AI magic with Image to Prompt  
 
 ## Note
 
@@ -62,7 +64,7 @@
 ## Image
 
 [Playground AI](https://playground.com/create) - free-to-use online AI image creator    
-[IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
+
 [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2)  figure out what a good prompt  
 [Bing 圖像建立器](https://www.bing.com/images/create) 微軟官方的 AI 文生圖服務  
 [Google ImageFX](https://aitestkitchen.withgoogle.com/tools/image-fx)  Google 推出免費AI 圖片生成器  
