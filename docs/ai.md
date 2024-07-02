@@ -11,10 +11,12 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
+`請你一步一步思考`
+
 
 ## Prompt
 
-[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区。
+[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区。  
 [IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
 [Image To Prompt](https://describepicture.org/image-to-prompt/)  Unlock AI magic with Image to Prompt  
 
