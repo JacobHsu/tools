@@ -32,6 +32,10 @@
 
 [Coze](https://www.coze.com/home) Create your own AI bot  
 
+### Chrome Extension
+
+[Eightify](https://eightify.app/) Save time on long videos, get key ideas instantly 
+
 ## Search
 
 [秘塔AI搜索](https://metaso.cn/)  
