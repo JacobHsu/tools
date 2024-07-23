@@ -148,4 +148,8 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 登錄網站之後，選「我的文檔」，選「導入」，在這裡把剛剛複製的Markdown語言粘貼進來，再選「導出創建」。 到這裡，你就能看到最終PPT的樣子了
 
+## Develop
+
+[LocalGPT](https://github.com/PromtEngineer/localGPT/tree/main): Secure, Local Conversations with Your Documents 
+
 
