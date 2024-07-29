@@ -2,6 +2,11 @@
 
 本章介绍 提供超多免費線上實用工具的網站
 
+## RSS
+
+[RSSHub](https://docs.rsshub.app/zh/) Everything is RSSible  
+[Readwise](https://readwise.io/) makes it easy to revisit and learn 
+
 ## 工具
 
 [67tool 即时工具](https://www.67tool.com/)-致力打造即用即走型在线工具箱  
