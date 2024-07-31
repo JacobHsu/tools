@@ -28,7 +28,8 @@
 ## 旅程
 
 [Google Flights](https://www.google.com/travel/flights?hl=zh-TW)  找便宜機票  
-[Skyscanner](https://www.skyscanner.com.tw/)  比較便宜機票，預訂飛往世界各地的機票
+[Skyscanner](https://www.skyscanner.com.tw/)  比較便宜機票，預訂飛往世界各地的機票  
+[FunTime旅遊比價](https://www.funtime.com.tw/airline/?cpc=LCCtrace#cheapAir_box): 便宜機票、飯店、行程比價
 
 ## 電子書
 
