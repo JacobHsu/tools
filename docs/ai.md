@@ -150,6 +150,7 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 ## Develop
 
-[LocalGPT](https://github.com/PromtEngineer/localGPT/tree/main): Secure, Local Conversations with Your Documents 
+[LocalGPT](https://github.com/PromtEngineer/localGPT/tree/main): Secure, Local Conversations with Your Documents  
+[every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui)  ChatGPT Next Web 
 
 
