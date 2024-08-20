@@ -1,6 +1,6 @@
 # Automa
 
-Global data
+[Global data](https://docs.automa.site/workflow/global-data.html)  
 ```
 {
 	"key": "value", "myid": "666"
