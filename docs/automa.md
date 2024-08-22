@@ -28,3 +28,14 @@ Text field
 ```
 My name is {{variables@name}}
 ```
+
+
+### Example
+
+notebooklm
+
+copy icon
+`.actions-container .rhs-start .mat-icon`
+
+Get Text  
+`mat-card-content.to-user-message-inner-content`
