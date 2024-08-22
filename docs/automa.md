@@ -1,5 +1,10 @@
 # Automa
 
+Loop data  
+insert data 字串要用雙引號
+["2-1","2-2"]
+
+
 [Global data](https://docs.automa.site/workflow/global-data.html)  
 ```
 {
