@@ -5,6 +5,7 @@
 [Claude](https://claude.ai/), an AI assistant from Anthropic.   Feature Preview / Artifacts `on`  
 [GenSpark](https://www.genspark.ai/) Travel. Products. Images. 
 
+[AIChatru.ru](https://aichatru.ru/en) Free Online AI Chat  
 [Poe](https://poe.com/) - Fast, Helpful AI Chat  
 [OpenRouter](https://openrouter.ai/) A unified interface for LLMs  
 [ChatGot](https://www.chatgot.io/) Chat Freely, Got Every AI Assistants  
