@@ -34,6 +34,8 @@
 
 [Coze](https://www.coze.com/home) Create your own AI bot  
 
+[小浣熊家族Raccoon](https://raccoon.sensetime.com/) - AI 智能助手- 办公助手
+
 ### Chrome Extension
 
 [Eightify](https://eightify.app/) Save time on long videos, get key ideas instantly 
