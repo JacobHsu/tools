@@ -30,6 +30,7 @@
 
 ## Tools
 
+[AI工具导航](https://www.aig123.com/) | AIGC工具网址大全  
 [Future Web Tools](https://futureweb.pro/tools/ai)  
 
 [Coze](https://www.coze.com/home) Create your own AI bot  
