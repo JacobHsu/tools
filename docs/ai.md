@@ -103,6 +103,7 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 ## Music
 
 [imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
+[Free AI Song Generator](https://ai-music-generator.ai/zh-TW) | Free AI Music Generator  
 
 ## Language
  
