@@ -30,6 +30,7 @@
 
 ## Tools
 
+[Toolify](https://www.toolify.ai/tw/) - Best AI Tools Directory & AI Tools List  
 [AI工具导航](https://www.aig123.com/) | AIGC工具网址大全  
 [Future Web Tools](https://futureweb.pro/tools/ai)  
 
@@ -83,6 +84,7 @@
 
 ## Image
 
+[Face AI](https://faceai.art/) | Free Face AI Generator Online  
 [getimg.ai](https://getimg.ai/) | Everything you need to create images with AI  
 [Playground AI](https://playground.com/create) - free-to-use online AI image creator    
 
