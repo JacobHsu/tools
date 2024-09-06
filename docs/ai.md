@@ -83,6 +83,7 @@
 
 ## Image
 
+[getimg.ai](https://getimg.ai/) | Everything you need to create images with AI  
 [Playground AI](https://playground.com/create) - free-to-use online AI image creator    
 
 [CLIP Interrogator](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2)  figure out what a good prompt  
@@ -108,6 +109,10 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 [imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
 [Free AI Song Generator](https://ai-music-generator.ai/zh-TW) | Free AI Music Generator  
+
+## Investment 
+
+[Intellectia.AI](https://intellectia.ai/) | AI-Driven Insights for Smarter Investment Decision
 
 ## Language
  
