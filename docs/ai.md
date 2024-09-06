@@ -35,6 +35,10 @@
 
 [Coze](https://www.coze.com/home) Create your own AI bot  
 
+## Humanize AI 
+
+[Humbot](https://humbot.ai/) 是一款免費的AI 人性化工具，可協助您將AI 轉換為人類文字並繞過AI 偵測。
+
 ### Excel
 
 [Julius AI](https://julius.ai/) | Your AI Data Analyst  
