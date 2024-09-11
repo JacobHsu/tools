@@ -1,10 +1,18 @@
 # Automa
 
-Loop data  
+Loop data  + 中斷點
 insert data 字串要用雙引號
 ["2-1","2-2"]
 
 `?INDUSTRY_CAT={{loopData@h4i43i}}`  
+
+JavaScript Code  
+```
+console.log(automaRefData('loopData', 'h4i43i').data);
+automaNextBlock()
+```
+
+
 
 [Global data](https://docs.automa.site/workflow/global-data.html)  
 ```
