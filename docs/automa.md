@@ -1,6 +1,6 @@
 # Automa
 
-Loop data  + 中斷點
+Loop data  + 中斷點  
 insert data 字串要用雙引號
 ["2-1","2-2"]
 
