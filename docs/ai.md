@@ -107,6 +107,10 @@ AI排版 美图秀秀 [美图设计室](https://www.x-design.com/)
 
 [eSheep.com](https://www.esheep.com) AIGC在线画图网站，提供海量模型，并支持在线AI画图。  
 
+### 圖片轉文字
+
+[AI Describe Pictures](https://describe.pictures/zh) 描述图片是一个用于描述图片的平台  
+
 ## Music
 
 [imagetomusic](https://imagetomusic.top/) AI Image to Music Generator  
