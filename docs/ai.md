@@ -73,6 +73,7 @@
 
 ### PPT
 
+[GraphicInfo](https://graphicinfo.cc/) AI-Powered Infographic Creation - Turn content into compelling infographic in 1 click.  
 [Canva](https://www.canva.com)：任何人都能輕鬆上手的Visual Suite  
 [Gamma](https://gamma.app) Beautiful presentations, documents, and websites.  
 [Beautiful AI](https://www.beautiful.ai) PPT 排版 
