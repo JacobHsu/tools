@@ -13,7 +13,8 @@
 [GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
 [CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
 
-`請你一步一步思考`
+`請你一步一步思考`  
+`詳細說明你的思考過程`  
 
 
 ## Prompt
