@@ -71,6 +71,7 @@
 
 [ollama](https://ollama.com/library/llama3:8b)  
 [Open WebUI](https://docs.openwebui.com/)  
+Chat [Blackbox](https://www.blackbox.ai/): AI Code Generation, Code Chat, Code Search  
 
 ### PPT
 
