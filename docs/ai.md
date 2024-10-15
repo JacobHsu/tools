@@ -28,6 +28,9 @@
 [Google NotebookLM](https://notebooklm.google/)  Note Taking & Research Assistant 
 > [大考中心](https://www.ceec.edu.tw/xmfile?xsmsid=0J052424829869345634)
 
+### 作業助手
+
+[Math.now](https://math.now/): Free Math AI Solver powered by math GPT  
 
 ## Tools
 
