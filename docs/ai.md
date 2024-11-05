@@ -63,6 +63,7 @@
 
 ## Ideas
 
+[Albus](https://albus.org/zh/) - Explore, Learn, Create with AI  
 [ChatPDF](https://www.chatpdf.com/) Chat with any PDF  
 [ChatDOC](https://chatdoc.com/) Chat with documents.  
 [copy.ai](https://www.copy.ai/) [ai-prompt-library](https://www.copy.ai/ai-prompt-library) sales  
