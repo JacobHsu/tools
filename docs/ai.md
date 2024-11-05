@@ -64,6 +64,7 @@
 ## Ideas
 
 [Albus](https://albus.org/zh/) - Explore, Learn, Create with AI  
+培養你的思考方式，使用情境建議建立動態心智圖，發現新角度，獲得準確的建議。  
 [ChatPDF](https://www.chatpdf.com/) Chat with any PDF  
 [ChatDOC](https://chatdoc.com/) Chat with documents.  
 [copy.ai](https://www.copy.ai/) [ai-prompt-library](https://www.copy.ai/ai-prompt-library) sales  
