@@ -103,7 +103,11 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 ## music
 
-[musicforprogramming](https://musicforprogramming.net/)
+[musicforprogramming](https://musicforprogramming.net/)  
+
+## Editor
+
+[Zed](https://zed.dev/) is a next-generation code editor designed for high-performance collaboration with humans and AI.
 
 ## mac
 
