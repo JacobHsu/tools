@@ -16,6 +16,7 @@
 
 [evernote](https://www.evernote.com/)  
 [Dynalist](https://dynalist.io/): Where brilliant ideas are captured, fleshed out, and realized. 
+[Notesnook](https://app.notesnook.com/) | Open source & zero knowledge private note taking app.  
 
 ## 設計工具
 
