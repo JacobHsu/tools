@@ -96,6 +96,8 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 [彩色結尾](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor  
 [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)  
+[es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html)  
+
 
 ## chromewebstore
 
