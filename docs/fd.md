@@ -101,7 +101,8 @@ devtool.tech [开发者武器库](https://devtool.tech/)
 
 ## chromewebstore
 
-[Web Vitals](https://chromewebstore.google.com/detail/ahfhijdlegdabablpippeagghigmibma)
+[Web Vitals](https://chromewebstore.google.com/detail/ahfhijdlegdabablpippeagghigmibma)  
+[Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?authuser=6&hl=zh-tw)  
 
 ## music
 
