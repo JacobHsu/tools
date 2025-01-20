@@ -2,7 +2,9 @@
 
 vercel [templates](https://vercel.com/templates)   
 
-[Farmer](https://www.framer.com/) - 提供 UI 佈局靈感
+[Farmer](https://www.framer.com/) - 提供 UI 佈局靈感  
+
+[Excalidraw](https://excalidraw.com/) - 手繪風圖表、流程圖
 
 [ChatGPT](https://www.openai.com/) - 文案設計、程式架構靈感
 
