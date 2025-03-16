@@ -1,28 +1,6 @@
 # AI
 
 
-[Perplexity](https://www.perplexity.ai/) is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.  
-[Claude](https://claude.ai/), an AI assistant from Anthropic.   Feature Preview / Artifacts `on`  
-[GenSpark](https://www.genspark.ai/) Travel. Products. Images. 
-
-[AIChatru.ru](https://aichatru.ru/en) Free Online AI Chat  
-[Poe](https://poe.com/) - Fast, Helpful AI Chat  
-[OpenRouter](https://openrouter.ai/) A unified interface for LLMs  
-[ChatGot](https://www.chatgot.io/) Chat Freely, Got Every AI Assistants  
-[YesChat.ai](https://www.yeschat.ai/zh-CN) 該網站提供最新 AI 模型（GPT4V、Dalle3、Claude 2）的免費體驗，不過每天有次數限制。  
-[GeminiProChat](https://geminiprochat.com/) Minimal web UI for GeminiPro.  
-[CF AI Web](https://ai.jaze.top/) Integrated web platform supporting GeminiPro/Cloudflare Workers AI/ChatGPT
-
-`請你一步一步思考`  
-`詳細說明你的思考過程`  
-
-
-## Prompt
-
-[LangGPT](https://flowgpt.com/@langgpt) 结构化提示词中文社区。  
-[IMAGE TO PROMPT](https://animegenius.live3d.io/features/image-to-prompt) Extract Text Prompts From Images  
-[Image To Prompt](https://describepicture.org/image-to-prompt/)  Unlock AI magic with Image to Prompt  
-
 ## Note
 
 [Google NotebookLM](https://notebooklm.google/)  Note Taking & Research Assistant 
